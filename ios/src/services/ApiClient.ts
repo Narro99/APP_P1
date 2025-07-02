@@ -6,7 +6,7 @@ class ApiClientClass {
 
   constructor() {
     // Replace with your actual API URL
-    this.baseUrl = 'https://your-api-domain.com/api';
+    this.baseUrl = 'https://wdmsjtwehmvyhinnjohp.supabase.co/';
     this.initializeToken();
   }
 
